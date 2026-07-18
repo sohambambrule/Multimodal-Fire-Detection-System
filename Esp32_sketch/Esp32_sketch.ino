@@ -1,7 +1,7 @@
 
-#define BLYNK_TEMPLATE_ID "TMPL3n7S4-RSQ"
-#define BLYNK_TEMPLATE_NAME "firealarm"
-#define BLYNK_AUTH_TOKEN "NEgfuymAAWassdhi0aiitv-2D06Xggr6"
+#define BLYNK_TEMPLATE_ID ""
+#define BLYNK_TEMPLATE_NAME ""
+#define BLYNK_AUTH_TOKEN ""
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
